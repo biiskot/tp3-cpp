@@ -47,6 +47,7 @@ int GenPrem() {
 	return nbNbPremiers;
 }
 
+
 void PartTrois() {
 	vector<int> Vec;
 	list<int> :: iterator it;
